@@ -50,6 +50,10 @@ The insights gained from this analysis can help the bank take targeted actions t
 2. Filter the data by different segments to explore specific trends and correlations.
 3. Leverage the insights from the dashboard to inform marketing, retention strategies, and customer service improvements.
 
+## Overview
+
+![Screenshot 2024-09-08 153842](https://github.com/user-attachments/assets/67309496-07e6-4d7c-a58f-347d15fed812)
+
 ## Future Improvements
 - Adding real-time data to keep the churn rate analysis updated.
 - Incorporating predictive models to forecast future churn trends.
