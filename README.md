@@ -55,5 +55,3 @@ The insights gained from this analysis can help the bank take targeted actions t
 - Incorporating predictive models to forecast future churn trends.
 - Segmenting churn data based on customer satisfaction scores.
 
-## Contact
-For any issues or inquiries, please contact [Your Name/Email].
